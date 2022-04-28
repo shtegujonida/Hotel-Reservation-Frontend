@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+    color: #40514E;
+    background-color: #d5fff7;
+    margin: 0;
+    font-family: 'Poppins';
+}
+
+.home--aside {
+    width: 45%;
+    margin-top: 12px;
+    padding-left: 15px;
+    margin-left: 15px;
+    margin-right: 25px;
+    float: right;
+    background-color: #c8e8de;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+.starter {
+    margin-top: 105px;
+    color: #1A3C40;
+}
+
+.top--img {
+    height: 900px;
+    width: 775px;
+}
+
+.aside--bottom {
+    margin-right: 10px;
+    padding-left: 10px;
+    width: 45%;
+    margin-top: 12px;
+    padding-left: 15px;
+    margin-left: 15px;
+    margin-right: 25px;
+    float: right;
+    border-radius: 25px;
+    text-align: center;
+   
+}
+
+hr {
+   color: #1A3C40;
+   border-color: #1A3C40;
+    border-width: 0.5px;
+    width: 12%;
+  }
+
+  #htl {
+      text-align: center;
+      font-style: normal;
+      font-size: 40px;
+      font-family: 'Poppins';
+      color: #1A3C40;
+      text-shadow: 1px 1px black;
+  }
+
+  .btn {
+    background: #224c50;
+    background-image: -webkit-linear-gradient(top, #224c50, #137f83);
+    background-image: -moz-linear-gradient(top, #224c50, #137f83);
+    background-image: -ms-linear-gradient(top, #224c50, #137f83);
+    background-image: -o-linear-gradient(top, #224c50, #137f83);
+    background-image: linear-gradient(to bottom, #224c50, #137f83);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #224c50;
+    background-image: -webkit-linear-gradient(top, #1A3C40, #224c50);
+    background-image: -moz-linear-gradient(top, #1A3C40, #224c50);
+    background-image: -ms-linear-gradient(top, #1A3C40, #224c50);
+    background-image: -o-linear-gradient(top, #1A3C40, #224c50);
+    background-image: linear-gradient(to bottom, #1A3C40, #224c50);
+    text-decoration: none;
+  }
+
+  .bottom--text {
+      text-align: center;
+      margin-top: 230px;
+  }
+  

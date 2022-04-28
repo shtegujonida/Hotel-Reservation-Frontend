@@ -1,0 +1,36 @@
+.container {
+    margin: 5rem auto;
+    margin-top: 40px;
+    height: 250px;
+    width: 300px;
+    border-radius: 25px;
+    padding-top: 30px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(172, 222, 205);
+}
+
+.head {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 20px;
+    height: 450px;
+}
+
+.right-label {
+    float: right;
+    cursor: pointer
+}
+
+#sub_btn {
+    display: block;
+    height: 30px;
+    width: 100px;
+    padding: .3rem;
+    border: none;
+    background: #222;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 100px;
+    font-size: 15px;
+}

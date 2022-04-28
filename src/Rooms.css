@@ -1,0 +1,71 @@
+.rooms--header {
+    margin-top: 120px;
+    text-align: center;
+    font-family: 'Poppins';
+    color: #40514E;
+    font-size: 40px;
+    text-shadow: 1px 1px black;
+}
+
+.rooms--description {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Poppins';
+}
+
+.rooms--container {
+    width: 70%;
+    padding-left: 30px;
+    margin-left: 220px;
+    background-color: #c8e8de;
+    text-align: left;
+    border-radius: 25px 0 0 25px;
+}
+
+.rooms--img {
+    width: 350px;
+    height: 220px;
+}
+
+.rooms--info {
+    margin-left: 200px;
+    margin-bottom: 70px;
+}
+
+.img--aside {
+    right: 20px;
+    float: right;
+}
+
+input[type=text] {
+    background-color: #c8e8de;
+    color: rgb(34, 34, 34);
+    border: none;
+    width: 200px;
+    height:22px;
+    border: 2px solid #555;
+    margin-right: 7px;
+    margin-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    font-size: 15px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  }
+
+input[type=checkbox] {
+    margin-left: z;
+    background-color: #c8e8de;
+    color: rgb(34, 34, 34);
+    border: none;
+    width: 20px;
+    height:20px;
+    border: 2px solid #555;
+    margin-right: 7px;
+    margin-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    border-radius: 15px;
+    font-size: 15px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+}

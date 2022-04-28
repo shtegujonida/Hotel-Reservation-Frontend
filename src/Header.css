@@ -1,0 +1,66 @@
+a {
+    text-decoration-line: none;
+    color: white;
+}
+
+/* a:hover {
+    color: #0062FF;
+    background: #FFFF99;
+} */
+
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    margin: 0px;
+    padding-left: 30px;
+    padding-top: 30px;
+    background-color: #1A3C40;
+    position: fixed;
+    bottom: 638px;
+    opacity: 99%;
+    box-shadow: 0px 0px 30px black;
+}
+.header--image {
+    position: absolute;
+    height: 85px;
+    width: 150px;
+    margin-left: 60px;
+    bottom: 5px;
+}
+
+.header--logo_text {
+    position: absolute;
+    right: 37%;
+    font-size: 48px;
+    font-weight: 300;
+    bottom: 18px;
+    font-family: 'Poppins';
+    margin: auto;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+}
+
+.header--rooms {
+    position: absolute;
+    right: 200px;
+    color: white;
+    text-shadow: 1px 2px black;
+}
+
+.header--login {
+    position: absolute;
+    right: 115px;
+    color: white;
+    text-shadow: 1px 2px black;
+}
+
+.header--rooms {
+    position: absolute;
+    right: 200px;
+    color: white;
+}
